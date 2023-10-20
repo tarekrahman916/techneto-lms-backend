@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "M:\\techneto_lms\\techneto_lms_server\\logs\\winston\\successes\\.e1c33f9df3d073e89b29e68c99b667606c6bbb68-audit.json",
+    "files": [
+        {
+            "date": 1694262661009,
+            "name": "M:\\techneto_lms\\techneto_lms_server\\logs\\winston\\successes\\phu-2023-09-09-18-success.log",
+            "hash": "8193f22ff5dbd4e16f23879acd694771017b4d715c8d6fb0de2067aabdb98648"
+        }
+    ],
+    "hashType": "sha256"
+}

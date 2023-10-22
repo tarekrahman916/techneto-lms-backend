@@ -6,9 +6,39 @@
     "auditLog": "M:\\techneto_lms\\techneto_lms_server\\logs\\winston\\successes\\.e1c33f9df3d073e89b29e68c99b667606c6bbb68-audit.json",
     "files": [
         {
-            "date": 1694262661009,
-            "name": "M:\\techneto_lms\\techneto_lms_server\\logs\\winston\\successes\\phu-2023-09-09-18-success.log",
-            "hash": "8193f22ff5dbd4e16f23879acd694771017b4d715c8d6fb0de2067aabdb98648"
+            "date": 1697846344299,
+            "name": "M:\\techneto_lms\\techneto_lms_server\\logs\\winston\\successes\\phu-2023-21-10-05-success.log",
+            "hash": "0a6beebcc140f20a839647d66b585b96415900b6d08a85440a6a4cc2255d7d7d"
+        },
+        {
+            "date": 1697952431478,
+            "name": "M:\\techneto_lms\\techneto_lms_server\\logs\\winston\\successes\\phu-2023-22-10-11-success.log",
+            "hash": "847cb14ef19dd1af71d1e3a616eb836a642a6f0f46ffb3ab6d649bdcbbfcf2ea"
+        },
+        {
+            "date": 1697965976555,
+            "name": "M:\\techneto_lms\\techneto_lms_server\\logs\\winston\\successes\\phu-2023-22-10-15-success.log",
+            "hash": "053987391fa51332776665d2b7ae5b20d43cacd018558553b8bbe4f0f959b9fc"
+        },
+        {
+            "date": 1697978560188,
+            "name": "M:\\techneto_lms\\techneto_lms_server\\logs\\winston\\successes\\phu-2023-22-10-18-success.log",
+            "hash": "6148032c24f06a0c6def4390d6c47c2b3e323642c4ef396c45e036766b81e64d"
+        },
+        {
+            "date": 1697979638351,
+            "name": "M:\\techneto_lms\\techneto_lms_server\\logs\\winston\\successes\\phu-2023-22-10-19-success.log",
+            "hash": "935999ddba34ff9cb85c9c3d8784799291681ef7971cdc0e426ef5dd28e63ec2"
+        },
+        {
+            "date": 1697983226018,
+            "name": "M:\\techneto_lms\\techneto_lms_server\\logs\\winston\\successes\\phu-2023-22-10-20-success.log",
+            "hash": "368c5f856ad2e7fa694a14058772e41e2679d16401771e18f32bb38c2c108e73"
+        },
+        {
+            "date": 1697986800415,
+            "name": "M:\\techneto_lms\\techneto_lms_server\\logs\\winston\\successes\\phu-2023-22-10-21-success.log",
+            "hash": "37d246921747e732433ab4f3caa585b7a4201deeba3855856d890d38381e2309"
         }
     ],
     "hashType": "sha256"

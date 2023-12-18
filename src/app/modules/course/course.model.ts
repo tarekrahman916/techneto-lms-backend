@@ -1,5 +1,4 @@
 import { Schema, model } from 'mongoose';
-import { courseStatus } from './course.constants';
 import { CourseModel, ICourse } from './course.interface';
 
 const courseSchema = new Schema<ICourse>(
@@ -14,17 +13,15 @@ const courseSchema = new Schema<ICourse>(
     image: {
       type: String,
     },
-    status: {
-      type: String,
-      required: true,
-      enum: courseStatus,
-    },
     price: {
       type: Number,
       required: true,
     },
     discountPrice: {
       type: Number,
+    },
+    features: {
+      type: [String],
     },
     module: [
       {

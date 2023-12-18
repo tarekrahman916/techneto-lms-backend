@@ -20,6 +20,7 @@ const signUp = catchAsync(async (req: Request, res: Response) => {
 });
 const login = catchAsync(async (req: Request, res: Response) => {
   const payload = req.body;
+  console.log(payload);
   const result = await authServices.login(payload);
 
   sendResponse(res, {

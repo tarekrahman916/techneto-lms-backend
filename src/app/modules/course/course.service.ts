@@ -3,7 +3,6 @@ import { Course } from './course.model';
 
 const insertIntoDB = async (payload: ICourse): Promise<ICourse | null> => {
   const result = await Course.create(payload);
-
   return result;
 };
 

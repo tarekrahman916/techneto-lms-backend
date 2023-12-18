@@ -11,9 +11,9 @@ export type ICourse = {
   title: string;
   description?: string;
   image?: string;
-  status: ICourseStatus;
   price: number;
   discountPrice?: number;
+  features: string[];
   module: ICourseModule[];
 };
 
